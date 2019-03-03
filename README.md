@@ -1,10 +1,16 @@
 # mmm
-__transfer Music manager M3u to Mtp device__
+__transfer Music Manager M3u to portable device__
 
 Rewrite m3u playlist written with absolute path to relative path and transfer to DAP.
 
 ## caution
 Even if this script breaks your playlist, I have no responsibility.
+
+__2019/03/03__
+
+PowerShellから直接MTPデバイスへアクセスする方法が無さそう(C#を使うなら楽にできそうですがPowerShell+.NETで完結しなくなってしまう)なのでMTPデバイスへの転送まではしないことにしました。
+
+
 
 ## env
 - Win10(PowerShell v6)

@@ -12,6 +12,7 @@ Even if this script breaks your playlist, I have no responsibility.
 
 But, This script does text processing and file transfer only.
 Whatever management tools are used, this should work.
+Please set file path with variable.
 
 ## usage
 ```
